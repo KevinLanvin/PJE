@@ -1,1 +1,1 @@
-int wait(int sec);
+int wait(double sec);
